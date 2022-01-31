@@ -1,5 +1,5 @@
 # API-RESTful
-
+[Detailed documentation](https://app.swaggerhub.com/apis-docs/utestroger/RS_API/1.0.0#/ "Detailed documentation")
 # **RSCodeSec API**
 The API provides programming language information and is organized around REST.
 
